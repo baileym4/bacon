@@ -7,7 +7,6 @@ Bacon Number
 
 import pickle
 
-# NO ADDITIONAL IMPORTS ALLOWED!
 
 
 def transform_data(raw_data):
